@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.log{
+    width: 150px;
+}
+
+.card{
+    padding: 20px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    text-align: center;
+    color: #2b2839;
+    background: #ddebf8;
+    border-bottom: 6px solid #d8cefe;
+}
+
+.bord{
+    border: 1px dotted blue;  
+    border: 0px solid #d8cefe; 
+    border-bottom: 10px solid #d8cefe;
+
+}
